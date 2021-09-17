@@ -1,13 +1,13 @@
 import React from 'react';
 
 import Button from 'react-bootstrap/Button';
-import profile from "./sofia.jpeg";
+import profile from "../assets/sofia.jpeg";
 import Image from 'react-bootstrap/Image';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 
-import resume from './resume.pdf';
+import resume from '../assets/resume.pdf';
 
 const Home = () => {
   return (
